@@ -16,7 +16,7 @@ summary: Après avoir découvert vos systèmes E-Series, vous pouvez afficher le
 [role="lead"]
 Après avoir découvert vos systèmes E-Series, vous pouvez afficher les détails sur la distribution de la capacité, les volumes et les hôtes.
 
-.Rôle de console NetApp requis
+.Rôle de NetApp Console requis
 Administrateur d'organisation, administrateur de dossier ou de projet, administrateur de stockage ou spécialiste de l'état du système. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["En savoir plus sur les rôles d’accès à la console."^]
 
 .Étapes

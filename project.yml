@@ -24,7 +24,7 @@ sidebar:
     entries:
     - title: Consultez vos systèmes de la série E
       url: "/task-view-e-series.html"
-    - title: Supprimer un système de la console NetApp
+    - title: Supprimer un système de la NetApp Console
       url: "/task-remove-e-series.html"
   - title: Connaissances et soutien
     entries:
