@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: task-discover-e-series.html 
+keywords: e-series, cluster, discover, manage, discovering, discover e-series 
+summary: 'La console NetApp peut détecter les systèmes E-Series dans votre environnement sur site.  L"ajout de systèmes E-Series à la console vous permet d"obtenir une vue complète des données de votre environnement multicloud hybride.' 
+---
+= Découvrez les systèmes de la série E
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+L'ajout de systèmes E-Series à la console NetApp vous permet de gérer vos systèmes E-Series à partir de la console et d'obtenir une vue complète de votre infrastructure de données dans votre environnement multicloud hybride.
+
+.Rôle de console NetApp requis
+Administrateur d'organisation, administrateur de dossier ou de projet, administrateur de stockage ou spécialiste de l'état du système. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["En savoir plus sur les rôles d’accès à la console NetApp ."^]
+
+.Avant de commencer
+Vous avez besoin des éléments suivants :
+
+* Un agent de console NetApp installé chez un fournisseur de cloud ou dans vos locaux, avec connectivité réseau au système E-Series. Vous devez disposer du rôle d’administrateur d’organisation pour installer un agent de console.  Si vous ne savez pas si votre organisation dispose d'un agent de console ou si vous avez besoin d'en créer un, contactez votre administrateur de console. https://review.docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-your-organization-administrator["Contactez l'administrateur de votre organisation."^]
+* Le nom de domaine ou l'adresse IP du contrôleur du système de stockage.
+* Informations d'identification d'administrateur pour le système E-Series.
+
+
+.Étapes
+. Dans le menu de navigation, sélectionnez *Stockage > Gestion*.
+. Depuis la page *Systèmes*, sélectionnez *Ajouter* et sélectionnez *Sur site*.
+. À côté de *E-Series*, sélectionnez *Découvrir*.
+. Sur la page _Détails du cluster E-Series_, saisissez le nom de domaine ou l'adresse IP du contrôleur du système de stockage, les informations d'identification d'administrateur du système, puis sélectionnez *Ajouter*.
+

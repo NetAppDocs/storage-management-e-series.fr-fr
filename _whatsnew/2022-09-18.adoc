@@ -1,0 +1,9 @@
+= Prise en charge de la série E
+:allow-uri-read: 
+
+
+
+
+=== Prise en charge de la série E
+
+Vous pouvez désormais découvrir vos systèmes E-Series directement depuis BlueXP.  La découverte des systèmes E-Series vous offre une vue complète des données de votre multicloud hybride.

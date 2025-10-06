@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, e-series' 
+summary: Découvrez les nouveautés en matière de gestion des systèmes de la série E dans BlueXP. 
+---
+= Quoi de neuf avec la gestion de la série E
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Découvrez les nouveautés en matière de gestion des systèmes E-Series dans la console NetApp .
+
+
+
+== 06 octobre 2025
+
+
+
+=== BlueXP est désormais NetApp Console
+
+La console NetApp , construite sur la base BlueXP améliorée et restructurée, fournit une gestion centralisée du stockage NetApp et des services de données NetApp dans les environnements sur site et cloud à l'échelle de l'entreprise, offrant des informations en temps réel, des flux de travail plus rapides et une administration simplifiée, hautement sécurisée et conforme.
+
+Pour plus de détails sur ce qui a changé, consultez lelink:https://docs.netapp.com/us-en/bluexp-relnotes/index.html["Notes de version de la console NetApp"] .
+
+
+
+== 12 mai 2025
+
+
+
+=== Rôle d'accès BlueXP requis
+
+Vous avez désormais besoin de l’un des rôles d’accès suivants pour afficher, découvrir ou gérer la série E dans BlueXP: administrateur d’organisation, administrateur de dossier ou de projet, administrateur de stockage ou spécialiste de l’intégrité du système.  https://docs.netapp.com/us-en/bluexp/reference-iam-predefined-roles.html["Découvrez les rôles d’accès BlueXP ."^]
+
+
+
+== 18 septembre 2022
+
+
+
+=== Prise en charge de la série E
+
+Vous pouvez désormais découvrir vos systèmes E-Series directement depuis BlueXP.  La découverte des systèmes E-Series vous offre une vue complète des données de votre multicloud hybride.

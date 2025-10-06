@@ -1,0 +1,39 @@
+---
+settings:
+  name: E-Series
+  platform: cloud
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: fr-fr,us-en,de-de,es-es,it-it,pt-br,ja-jp,ko-kr,zh-cn,zh-tw
+sidebar:
+  entries:
+  - title: Documents de la série E
+    url: "/index.html"
+  - title: Notes de version
+    entries:
+    - title: Quoi de neuf
+      url: "/whats-new.html"
+  - title: Commencer
+    entries:
+    - title: Découvrez les systèmes de la série E
+      url: "/task-discover-e-series.html"
+  - title: Gérer les systèmes de la série E
+    entries:
+    - title: Consultez vos systèmes de la série E
+      url: "/task-view-e-series.html"
+    - title: Supprimer un système de la console NetApp
+      url: "/task-remove-e-series.html"
+  - title: Connaissances et soutien
+    entries:
+    - title: Inscrivez-vous pour obtenir de l'aide
+      url: "/task-support-registration.html"
+    - title: Obtenir de l'aide
+      url: "/task-get-help.html"
+  - title: Mentions légales
+    url: "/legal-notices.html"
+product-family:
+  name: Storage Management
+  repo: storage-management-family
